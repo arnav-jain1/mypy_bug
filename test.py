@@ -1,4 +1,3 @@
-import pytest
 from typing import Literal
 
 op1: Literal[3] = 3
